@@ -1,0 +1,10 @@
+1. Max no. of athletes
+2. Min no. of athletes.
+3. Max and min. no. of male in a particular game
+4. Max and min no. of female in a particular game
+5. Which game is played by most of the male?
+6. Which game is played by most of the female?
+7. Which game is only played by men?
+8. Which game is only played by women?
+9. Which game is famous according to your data?
+10.Which game has 0 male athletes?
