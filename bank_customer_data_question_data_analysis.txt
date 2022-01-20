@@ -1,0 +1,19 @@
+1. Mention the customer id who have white collar job? 
+2. Mention the full name of customer having age of 20?
+3. Mention the region where male customer are dominating?
+4. Mention the job where female customer are dominating?
+5. Mention the max and min age of customers on the basis of region?
+6. Mention the max & min age of customer on the basis of gender?
+7. Mention the max & min age of customer on the basis of job?
+8. Name the customer id & customer name having highest balance?
+9. Name the customer id & customer name having lowest balance?
+10. Mention the region where customers have blue collar job?
+11. According to region name the customer with max balance and also
+	mention their date of joining?
+12.Name the customer with customer id who belong to "Wales"?
+13.Name the customer having highest balance on the basis of gender
+14.Name the customer having highest balance on the basis of age?
+15. How many customers are of age less than 34 years with white
+ collar job?
+16. How many customers are of age greater than 46 years with blue
+ collar job?
